@@ -11,3 +11,4 @@ This shows the resulting Big O notation as O(n²) from the nested loops
 
 Further reading:
 https://en.wikipedia.org/wiki/Bubble_sort
+https://en.wikipedia.org/wiki/Big_O_notation
